@@ -6,16 +6,16 @@ Short role description
 
 Brief description
 
-## Variables
+## Role Variables
 
 
-| Name                     | Default | Description                                 |
-| :----------------------- | :-----: | ------------------------------------------- |
+| Name | Default | Description |
+| :--- | :-----: | ----------- |
 
-## Tags
+## Role Tags
 
-| Name                         | Description                              |
-| ---------------------------- | ---------------------------------------- |
+| Name | Description |
+| ---- | ----------- |
 
 ## Dependencies
 
