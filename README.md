@@ -19,7 +19,6 @@ Brief description
 
 ## Dependencies
 
-
 **None**
 
 ## Example Playbook
