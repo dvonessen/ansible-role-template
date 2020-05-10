@@ -1,6 +1,6 @@
 # ansible-role-$ROLE_NAME
 
-Short role description
+$DESCRIPTION
 
 ## Description
 
@@ -38,4 +38,4 @@ MIT License
 
 ## Contributors
 
-Named of Contributors
+$USERNAME
