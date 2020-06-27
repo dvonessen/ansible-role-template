@@ -18,12 +18,6 @@ platforms:
     memory: 2048
     cpus: 2
     provision: true
-  - name: $ROLE_NAMEubuntu2004
-    box: ubuntu/focal64
-    box_version: 20200430.1.0
-    memory: 2048
-    cpus: 2
-    provision: true
 provisioner:
   name: ansible
   config_options:
